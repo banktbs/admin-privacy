@@ -1,38 +1,35 @@
-# admin-privacy
+# Privacy Policy for AdminTBS
 
-Privacy Policy for AdminTBS
-Effective Date: December 21, 2025 App Name: AdminTBS Operated by: TBS Marketing
+**Effective Date:** March 29, 2026
+**App Name:** AdminTBS
+**Operated by:** TBS Marketing
 
-The "AdminTBS" application, operated by TBS Marketing, provides automated chatbot and customer support services via Facebook Messenger and Instagram. This privacy policy outlines how we collect, use, and handle your data in compliance with Meta's Platform Terms.
+This Privacy Policy describes how TBS Marketing ("we", "us", or "our") collects, uses, and shares information when you interact with our automated customer service application, **AdminTBS**. This app is used to manage communications for our business channels, including our Facebook Page (**TBS Marketing**) and our Instagram Professional account (**@bubbyandcow**).
 
-1. Data We Collect
-The "AdminTBS" application collects the minimum necessary data to provide automated response services and facilitate seamless communication between users and our business. This includes:
+## 1. Information We Collect
+When you interact with our business via Facebook Messenger or Instagram Direct, the AdminTBS app may receive the following information via Meta's webhooks:
+* **Public Profile Information:** Such as your name, username, and profile picture.
+* **Identification Data:** Page-Scoped ID (PSID) or Instagram-Scoped ID to accurately route your messages.
+* **Message Content:** The text, media, or inquiries you send to our pages.
 
-Identification Data: User's public profile name, Facebook Page-scoped ID (PSID), and Instagram account metadata (e.g., Username and ID).
+## 2. How We Use Your Information
+We use the collected data strictly for the following purposes:
+* To provide instant, automated customer support and answer your inquiries in real-time.
+* To facilitate communication between you and our business (e.g., providing pricing, product details).
+* To improve the quality and accuracy of our automated AI responses.
 
-Communication Data: The content of messages sent by the user to our business pages through Meta's messaging platforms.
+We **do not** use your message content for targeted advertising, and we **do not** sell your personal information to third parties.
 
-2. Purpose of Data Use
-We use the collected data strictly for the following primary purposes:
+## 3. Data Sharing and Third-Party Processors
+To provide our automated service, we utilize secure third-party processors. Your data may be processed by:
+* **n8n:** Our self-hosted backend infrastructure used to route messages.
+* **AI Providers (e.g., OpenAI / Google LLC):** Used strictly to generate contextual responses to your inquiries. These providers do not use your data to train their public models.
 
-To respond to user messages automatically and provide real-time information.
+## 4. Data Retention and Deletion
+We retain your messaging data only for as long as necessary to provide customer support and fulfill the purposes outlined in this policy. If you wish to have your data deleted from our backend systems, you may contact us directly through our Facebook Page or Instagram account.
 
-To process customer requests, such as answering FAQs, providing service details, or escalating to a human agent.
-
-To improve the conversational efficiency, accuracy, and overall quality of our customer support service.
-
-3. Data Sharing and Third-Party Processors
-We are highly committed to maintaining the confidentiality of your personal data. We will not sell, trade, or transfer your personally identifiable information to outside parties for marketing purposes.
-
-To provide our automated AI responses efficiently, we utilize trusted third-party service providers (Data Processors) to process data on our behalf. These include cloud infrastructure providers and AI natural language processing services (e.g., Google LLC). These providers only process data based on our strict instructions and are bound by confidentiality obligations.
-
-4. User Data Deletion Instructions
-Users have the right to request the deletion of their personal data retained by the "AdminTBS" application. If you wish to have your data completely removed from our system, please contact us via the email provided below. We will proceed with the complete deletion of your data within 30 business days.
-
-5. Contact Information
-If you have any questions regarding this Privacy Policy or wish to submit a data deletion request, please contact our Data Controller:
-
-Responsible Entity: TBS Marketing (Banksu Tbs)
-
-Contact Email: banksutanai2545@gmail.com
-
+## 5. Contact Us
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+* **Business Name:** TBS Marketing
+* **Instagram:** [@bubbyandcow](https://www.instagram.com/bubbyandcow/)
+* **Facebook:** TBS Marketing
